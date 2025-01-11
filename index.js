@@ -7,15 +7,15 @@ try{
         })
         console.log(MyTeam.getTeamList())  
     })([
-        "Stanley Arua", 
-        "wilma Okoli", 
-        "Idris Idah", 
-        "Michael Ayeyemi", 
-        "Dennis Adi", 
-        "James Ohia", 
-        "Uriel Kasali", 
-        "Musa Tanua", 
-        "Musa Ibrahim"
+        "John Doe", 
+        "Jane Doe", 
+        "Suzan Doe", 
+        "Jack Doe", 
+        "Mary Doe", 
+        "Agba Doe", 
+        "Ogbologbo Doe", 
+        "Musa Doe", 
+        "Emeka Doe"
     ])
 
 }catch(e){

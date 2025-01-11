@@ -55,27 +55,3 @@ private:
 // Register the addon
 NODE_API_ADDON(MyTeam);
 
-
-// String HelloWorld(const CallbackInfo& info){
-//     Env env = info.Env();
-
-//     if(info.Length() < 0){
-//         throw TypeError::New(env, "info count  must be more than one");
-//     }
-
-//     if(!info[0].IsString()){
-//         throw TypeError::New(env, "info must be a string");
-//     }
-
-//     string name = info[0].As<String>();
-
-//     return String::New(env, name);
-// }
-
-// Object Init(Env env, Object exports){
-//     exports.Set("hello", Function::New(env, HelloWorld));
-//     return exports;
-
-// }
-
-// NODE_API_MODULE(addon, Init);
