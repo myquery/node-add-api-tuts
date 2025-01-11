@@ -1,0 +1,3 @@
+/Users/sarua/apps/personal/node-api/node-api-tuts-04/build/CMakeFiles/node-api-tuts.dir
+/Users/sarua/apps/personal/node-api/node-api-tuts-04/build/CMakeFiles/edit_cache.dir
+/Users/sarua/apps/personal/node-api/node-api-tuts-04/build/CMakeFiles/rebuild_cache.dir
